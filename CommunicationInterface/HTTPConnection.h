@@ -11,7 +11,6 @@
 #include <QObject>
 #include "CCIAgrirouter/ICommunicationInterface.h"
 #include <QDir>
-#include "../Utils.h"
 
 enum HTTPOperation
 {
