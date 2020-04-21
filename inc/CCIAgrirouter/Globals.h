@@ -45,6 +45,7 @@ namespace TechnicalMessageType
     static const QString IMAGE_PNG = "img:png";
     static const QString IMAGE_JPEG = "img:jpeg";
     static const QString NON_TELEMETRY = "dke:non_telemetry";
+    static const QString GPS_INFO = "gps:info";
 }
 
 namespace CertificateType
